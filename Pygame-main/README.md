@@ -29,8 +29,8 @@
 과제, F = 장애물 - 부딪히면 게임 종료
 
 
-<img src = "https://github.com/Leeryuhee/Team-Assignment/issues/1#issue-2033660826.png" width="400" height="300">
 
+![image](https://github.com/Leeryuhee/Team-Assignment/issues/1#issue-2033660826.png)
 
 # 게임 작동법 
 
