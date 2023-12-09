@@ -30,7 +30,7 @@
 
 
 
-![image](https://github.com/Leeryuhee/Team-Assignment/issues/1#issue-2033660826.png)
+![image]("https://github.com/Leeryuhee/Team-Assignment/issues/1#issue-2033660826.png")
 
 # 게임 작동법 
 
