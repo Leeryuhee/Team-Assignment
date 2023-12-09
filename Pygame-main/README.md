@@ -29,8 +29,8 @@
 과제, F = 장애물 - 부딪히면 게임 종료
 
 
+<img src="C:\Users\ryuhe\assignment\Pygame-main\CAUGAME\book.png" width="600" height="600"/>
 
-![book](https://github.com/Leeryuhee/Team-Assignment/assets/150777886/5690c684-2fa9-4fe7-b30d-4d880046e47d)
 
 # 게임 작동법 
 
