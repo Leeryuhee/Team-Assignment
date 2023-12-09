@@ -28,7 +28,9 @@
 커피, A+ = 아이템 - 푸앙이 속도 증가
 과제, F = 장애물 - 부딪히면 게임 종
 
-
+<p align="center">
+  <img src="이미지![book](https://github.com/Leeryuhee/Team-Assignment/assets/150777886/5690c684-2fa9-4fe7-b30d-4d880046e47d)">
+</p>
 
 # 게임 작동법 
 
